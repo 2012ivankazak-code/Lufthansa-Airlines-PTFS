@@ -1,0 +1,6 @@
+{
+  "name": "Lufthansa Airlines PTFS",
+  "description": "Официальный портал виртуальной авиакомпании Lufthansa Airlines в Roblox Pilot Training Flight Simulator (PTFS). Заявления на работу, регистрация на рейсы, онлайн-табло и админ-панель.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
